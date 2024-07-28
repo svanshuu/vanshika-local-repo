@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    long lng= 10.90;
+    long lng= 10.96;
     int n ;
     cout<<"enter any no,";
     cin>>n;
