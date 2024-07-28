@@ -1,0 +1,11 @@
+body{
+    background-image: url(IMG_20220131_161849.jpg)  ;
+    background-repeat: repeat-x;
+}
+
+h1{
+    background-color: rgb(222, 179, 135);
+    border: double;
+    /*background-colour: blue; */
+       /* background-image: url(IMG_20220131_161849.jpg);*/ 
+}
